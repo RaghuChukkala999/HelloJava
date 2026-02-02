@@ -15,5 +15,7 @@ class Welcome{
 
 		 need to check stash
 >>>>>>> Stashed changes
+
+		 git fetch and git pull
 		}
 	}
