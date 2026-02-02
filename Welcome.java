@@ -8,5 +8,6 @@ class Welcome{
      Yes , from note pad
 
 		 change from submain
+		 change from sub main2
 		}
 	}
