@@ -9,6 +9,11 @@ class Welcome{
 
 		 change from submain
 		 change from sub main2
+<<<<<<< Updated upstream
 		 hello people after git stash
+=======
+
+		 need to check stash
+>>>>>>> Stashed changes
 		}
 	}
