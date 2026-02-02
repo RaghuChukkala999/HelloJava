@@ -6,5 +6,7 @@ class Welcome{
 		int d=40;
 		System.out.println("Welcome Java");
      Yes , from note pad
+
+		 change from submain
 		}
 	}
